@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;display:block;" width="800px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<defs>
+  <filter id="ldio-kw2iz976vy7-filter">
+    <feTurbulence baseFrequency="0.034999999999999996" numOctaves="100" seed="0" result="turb">
+      <animate attributeName="seed" calcMode="discrete" values="0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;0" keyTimes="0;0.06666666666666667;0.13333333333333333;0.2;0.26666666666666666;0.3333333333333333;0.4;0.4666666666666667;0.5333333333333333;0.6;0.6666666666666666;0.7333333333333333;0.8;0.8666666666666667;0.9333333333333333;1" dur="1s" repeatCount="indefinite"></animate>
+    </feTurbulence>
+    <feDisplacementMap in="SourceGraphic" in2="turb" scale="5"></feDisplacementMap>
+  </filter>
+</defs>
+<text x="50" y="50" dy="0.38em" text-anchor="middle" fill="#d37543" font-family="Arial" font-weight="800" font-size="50" filter="url(#ldio-kw2iz976vy7-filter)"><tspan fill="#d71920">MS </tspan><tspan fill="#1a8f3a">CHOLA ...</tspan></text>
+</svg>

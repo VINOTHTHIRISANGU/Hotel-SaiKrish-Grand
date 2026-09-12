@@ -1,0 +1,1117 @@
+/* LMSone Education Business HTML-5 Template */
+
+@media only screen and (max-width: 1640px) {}
+
+@media only screen and (max-width: 1540px) {
+    .testimonial-section-two .owl-nav {
+        left: 30px;
+        right: 30px;
+    }
+}
+
+@media only screen and (max-width: 1340px) {
+    .page-wrapper {
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    h2 {
+        line-height: 60px;
+        font-size: var(--font-50);
+    }
+    .hotel-tabs .tabs-content {
+        margin-left: 360px;
+    }
+    .price-block h3 {
+        font-size: var(--font-28);
+    }
+    .price-block .content-column .inner-column {
+        padding: 40px 35px;
+    }
+    .comfort-section .content-column .inner-column {
+        padding: var(--padding-zero);
+    }
+    .locations-section .owl-nav {
+        right: 30px;
+    }
+    .capacity-section .inner-container {
+        overflow-x: auto;
+    }
+    .service-block-three .content-column .inner-column {
+        padding-top: var(--padding-zero);
+    }
+    .service-block-three h2 {
+        line-height: 46px;
+        font-size: var(--font-36);
+    }
+    .meeting-section .counter-column .inner-column {
+        padding-left: var(--padding-zero);
+    }
+    .sidebar-widget .widget-content {
+        padding: 20px 20px;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .page-wrapper {
+        overflow: hidden;
+    }
+    h1 {
+        line-height: 68px;
+        font-size: var(--font-60);
+    }
+    .main-header .header-top .info li {
+        font-size: var(--font-14);
+    }
+    .main-header .outer-box {
+        margin-left: var(--margin-zero);
+    }
+    .main-header .main-menu .navigation>li {
+        margin-right: var(--margin-right-25);
+    }
+    .news-block h4 {
+        font-size: var(--font-24);
+    }
+    .price-block .options-list li,
+    .main-header .main-menu .navigation>li>a {
+        font-size: var(--font-14);
+    }
+    .main-slider .owl-nav {
+        max-width: 1000px;
+    }
+    .hotel-section .content-column .inner-column {
+        padding-top: var(--padding-zero);
+    }
+    .hospitality-section .video-column .inner-column {
+        margin-left: var(--margin-zero);
+        padding-right: var(--padding-zero);
+    }
+    .hospitality-section .content-column .inner-column {
+        padding-top: var(--padding-zero);
+    }
+    .hospitality-section .quote-box {
+        right: 15px;
+    }
+    .room-block h3 {
+        font-size: var(--font-28);
+        margin-bottom: var(--margin-bottom-10);
+    }
+    .price-block .content-column .inner-column {
+        padding: 20px 20px;
+    }
+    .news-block-two .inner-box {
+        padding: 25px 25px;
+    }
+    .news-post h6 {
+        font-size: var(--font-14);
+    }
+    .sidebar-title h3 {
+        font-size: var(--font-24);
+    }
+    .sidebar-title .text br,
+    .banner-section .text br,
+    .main-header .outer-box .button-box,
+    .main-header .header-top .social-box {
+        display: none;
+    }
+    .main-header .outer-box .nav-toggle-btn {
+        margin-right: var(--margin-zero);
+    }
+    .main-slider .owl-nav {
+        max-width: 900px;
+    }
+    .hotel-section .image-two {
+        top: auto;
+        left: 10px;
+        bottom: 10px;
+    }
+    .hotel-section .form-box {
+        margin-top: var(--margin-top-30);
+        margin-right: var(--margin-zero);
+        padding: 25px 25px 32px !important;
+    }
+    #carouselTrack {
+        width: 427%;
+    }
+    .control-btn-right {
+        left: 91%;
+    }
+    .control-btn-left {
+        left: -5px;
+    }
+    .footer_img_mobile_res {
+        position: relative;
+        left: 14%;
+    }
+    .hotel-form {
+        padding-right: var(--padding-zero);
+    }
+    .hotel-form input[type="submit"],
+    .hotel-form button {
+        position: relative;
+        display: block;
+        width: 100%;
+        padding: 16px 10px;
+        left: 25% !important;
+    }
+    .hotel-form button br {
+        display: none;
+    }
+    .hospitality-section .check-list li {
+        font-size: var(--font-16);
+    }
+    .room-block .overlay-box {
+        padding: 30px 30px;
+    }
+    .facility-section .row {
+        margin: 0px -15px;
+    }
+    .facility-section .column {
+        padding: 0px 15px;
+    }
+    .hotel-block {
+        margin-bottom: var(--margin-bottom-30);
+    }
+    .price-block .content-column {
+        width: 50%;
+    }
+    .price-block .image-column {
+        width: 50%;
+    }
+    .news-block h4 a br {
+        display: none;
+    }
+    .news-block .read-more {
+        margin-top: var(--margin-top-15);
+    }
+    .news-block h4 {
+        margin-top: var(--margin-top-20);
+    }
+    .news-block-two h4 {
+        line-height: 36px;
+        font-size: var(--font-22);
+    }
+    .news-block .text {
+        margin-top: var(--margin-top-10);
+    }
+    .banner-section .hotel-form input[type="submit"],
+    .banner-section .hotel-form button {
+        bottom: 0px;
+    }
+    .option-block .inner-box {
+        padding: 40px 10px;
+    }
+    .events-section .event-block {
+        transform: scale(1, 1);
+    }
+    .event-block .overlay-box h3 {
+        line-height: 32px;
+        font-size: var(--font-26);
+    }
+    .offer-block .content {
+        padding-left: 250px;
+    }
+    .main-header.header-style-three .outer-box .button-box {
+        display: block;
+    }
+    .banner-section-two .hotel-form button {
+        bottom: 0px;
+    }
+    .service-block .lower-content {
+        padding: 30px 10px 0px;
+    }
+    .comfort-section .carousel-column .thumbs-carousel {
+        position: relative;
+        left: 0px;
+        margin: var(--margin-zero);
+    }
+    .comfort-section {
+        padding-bottom: var(--padding-bottom-80);
+    }
+    .gallery-block-three .overlay-inner h2 {
+        font-size: var(--font-30);
+    }
+    .footer-style-three .content-column .text br {
+        display: none;
+    }
+    .collection-section .location-column .inner-column {
+        border: none;
+        padding: var(--padding-zero);
+    }
+    .services-section .owl-carousel .owl-stage-outer {
+        padding-bottom: var(--padding-bottom-20);
+    }
+    .service-block h3 {
+        font-size: var(--font-28);
+    }
+    .services-section.style-two {
+        padding-bottom: var(--padding-bottom-100);
+    }
+    .video-section .gallery-block-four {
+        transform: scale(0.97, 0.97);
+    }
+    .room-block-three .content-column .inner-column {
+        padding-top: var(--padding-zero);
+    }
+    .room-block-three .image-column .inner-column {
+        padding-right: var(--padding-zero);
+    }
+    .contact-form-section .map-column .inner-column {
+        padding-left: var(--padding-zero);
+    }
+    .contact-form-section .form-column .inner-column {
+        border: none;
+        padding-right: var(--padding-zero);
+    }
+    .room-block-three h2 {
+        font-size: var(--font-36);
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .main-menu .navigation>li>ul,
+    .main-menu .navigation>li>ul>li>ul {
+        display: block !important;
+        visibility: hidden;
+        opacity: 0;
+    }
+    .option-block h6 {
+        font-size: var(--font-16);
+    }
+    .card-block .text br {
+        display: none;
+    }
+    .gift-block .content-column .inner-column {
+        padding-top: var(--padding-zero);
+    }
+    .gift-block .content-column h3 {
+        font-size: var(--font-35);
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    .main-header .main-box .logo-box {
+        position: relative;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        margin: 0px;
+        text-align: left;
+    }
+    .main-menu .navigation>li>a {
+        font-size: 14px;
+    }
+    .main-header .main-menu .navigation>li {
+        margin-right: var(--margin-right-25);
+    }
+    .main-header .header-upper .logo-box {
+        margin: 0px;
+        padding: 0px;
+    }
+    .main-header {
+        position: relative;
+    }
+    .main-menu .navigation>li>a {
+        text-transform: capitalize;
+    }
+    .main-header .main-menu .navigation>li>a {
+        padding: 20px 0px;
+    }
+    .main-header .main-menu {
+        display: none !important;
+    }
+    #navbarSupportedContent {
+        display: block;
+    }
+    .mCSB_inside>.mCSB_container {
+        margin-right: 0px;
+    }
+    .main-header .sticky-header .mobile-nav-toggler,
+    .main-header .outer-box .mobile-nav-toggler {
+        display: block;
+    }
+    .main-header .header-lower {
+        background-color: var(--color-two);
+        border-top: 1px solid rgba(var(--white-color-rgb), 0.08);
+    }
+    .main-slider .helpline,
+    .main-slider .color-two,
+    .main-header .header-top .info {
+        display: none;
+    }
+    .main-header .header-top .social-box {
+        display: block;
+        left: 246px;
+    }
+    .main-header .header-top .social-box li {
+        margin-left: var(--margin-zero);
+        margin-right: var(--margin-right-15);
+    }
+    .contact-form-section {
+        padding: 0px 0px 0px;
+    }
+    .main-footer .auto-container .logo-column {
+        display: contents;
+    }
+    .main-slider .content-box {
+        padding: 150px 0px 200px;
+    }
+    .main-slider .owl-nav {
+        right: 45px;
+        left: auto;
+        max-width: inherit;
+        transform: translateX(0%);
+    }
+    .hotel-section .content-column .text {
+        max-width: 100%;
+    }
+    .hotel-tabs .tabs-content {
+        margin-left: var(--margin-zero);
+    }
+    .hotel-tabs .tab-btns {
+        position: relative;
+        max-width: inherit;
+    }
+    .resource-section .phone-box {
+        margin-top: var(--margin-top-20);
+    }
+    .facility-section .column:nth-child(2),
+    .facility-section .column:nth-child(3) {
+        margin-top: var(--margin-zero);
+    }
+    .testimonial-section .title-column .inner-column .sec-title h2 br {
+        display: none;
+    }
+    .news-block .inner-box .d-flex {
+        display: block !important;
+    }
+    .news-block .content-box {
+        padding: 30px 30px;
+    }
+    .main-header .sticky-header .logo {
+        padding: 15px 0px;
+    }
+    .gallery-section .gallery-block:nth-child(1) {
+        left: auto;
+    }
+    .gallery-section .gallery-block:nth-child(2) {
+        position: relative;
+        top: 0px;
+    }
+    .gallery-section .gallery-block:nth-child(3) {
+        position: relative;
+        left: 0px;
+    }
+    .gallery-section .gallery-block:nth-child(4) {
+        position: relative;
+        left: auto;
+        bottom: 0px;
+    }
+    .gallery-section .gallery-block:nth-child(5) {
+        position: relative;
+        right: auto;
+        top: auto;
+    }
+    .gallery-section .gallery-block:nth-child(6) {
+        position: relative;
+        top: 0px;
+    }
+    .gallery-section .gallery-block:nth-child(7) {
+        position: relative;
+        right: 0px;
+        bottom: 0px;
+    }
+    .gallery-section .outer-container {
+        position: relative;
+    }
+    .gallery-section .inner-container {
+        height: auto;
+    }
+    .gallery-section .gallery-block {
+        width: 33%;
+    }
+    .main-footer .logo {
+        padding: 50px 0px 0px;
+    }
+    .main-footer .info-column {
+        padding: 40px 15px;
+    }
+    .main-footer .footer-bottom .copyright {
+        text-align: center;
+        font-size: var(--font-16);
+        margin-bottom: var(--margin-bottom-15);
+    }
+    .main-footer .footer-bottom .social-nav {
+        text-align: center;
+    }
+    .banner-section {
+        padding-top: var(--padding-top-100);
+    }
+    .banner-section .content-column .inner-column {
+        padding-bottom: var(--padding-bottom-40);
+    }
+    .banner-section .owl-nav {
+        position: relative;
+        margin-top: var(--margin-top-40);
+    }
+    .options-section .sec-title h2 {
+        line-height: 46px;
+        font-size: var(--font-36);
+    }
+    .options-section .option-block {
+        width: 33.3333%;
+    }
+    .options-section .option-block:nth-child(6) {
+        margin-left: var(--margin-zero);
+    }
+    .options-section .lower-box .text {
+        font-size: var(--font-16);
+    }
+    .options-section .lower-box .text br {
+        display: none;
+    }
+    .cards-section .right-column .gallery-block {
+        margin-top: var(--margin-zero);
+    }
+    .card-block .inner-box {
+        padding: 25px 25px;
+    }
+    .card-block h1 {
+        line-height: 46px;
+        font-size: var(--font-32);
+    }
+    .card-block .text {
+        font-size: var(--font-16);
+    }
+    .rooms-section::before {
+        width: 100%;
+    }
+    .card-block .button-box {
+        margin-top: var(--margin-top-20);
+    }
+    .offer-section .rate {
+        margin-bottom: var(--margin-bottom-30);
+    }
+    .offer-section .right-column .offer-block:first-child {
+        margin-top: var(--margin-zero);
+    }
+    .footer-style-two .footer-bottom .copyright {
+        text-align: center;
+        margin-bottom: var(--margin-bottom-15);
+    }
+    .footer-style-two .footer-bottom .social-nav {
+        text-align: center;
+    }
+    .header-style-three .logo-box {
+        margin: var(--margin-zero);
+    }
+    .header-style-three .header-lower .left-box {
+        display: none;
+    }
+    .header-style-three .logo-box {
+        padding: var(--padding-zero);
+    }
+    .header-style-three .header-lower .logo {
+        display: none;
+    }
+    .header-style-three .sticky-header .mobile-nav-toggler {
+        margin-right: var(--margin-zero);
+    }
+    .header-style-three .hidden-logo {
+        display: block;
+        padding: 15px 0px;
+    }
+    .beach-section .voucher-box {
+        position: relative;
+        margin-top: var(--margin-top-30);
+    }
+    .testimonial-section-two .owl-nav {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        text-align: center;
+        margin-top: var(--margin-top-50);
+    }
+    .testimonial-section-two .owl-nav .owl-prev,
+    .testimonial-section-two .owl-nav .owl-next {
+        position: relative;
+        margin: 0px 10px;
+        display: inline-block;
+    }
+    .footer-style-three .footer-bottom .copyright {
+        text-align: center;
+        margin-bottom: var(--margin-bottom-15);
+    }
+    .footer-style-three .footer-bottom .social-nav {
+        text-align: center;
+    }
+    .page-title {
+        padding: 100px 0px 100px;
+    }
+    .services-section .service-block {
+        transform: translateY(0px);
+    }
+    .faq-section .inner-container {
+        padding: 100px 15px;
+    }
+    .gift-block .content-column {
+        margin-bottom: var(--margin-bottom-40);
+    }
+    .gift-block .content-column h3 {
+        font-size: var(--font-35);
+    }
+    .gift-block .content-column h3 a br {
+        display: none;
+    }
+    .room-block-two .room-content {
+        left: 10px;
+        bottom: 10px;
+    }
+    .room-block-three .content-column .inner-column {
+        padding-top: var(--padding-top-30);
+    }
+    .reservation-tabs .image {
+        margin-top: var(--margin-top-30);
+    }
+    .reservation-tabs .image img {
+        position: relative;
+        width: 100%;
+        display: block;
+    }
+    .menu-block .inner-box {
+        padding: 25px 25px;
+    }
+    .menu-section .menu-block:nth-child(1),
+    .menu-section .menu-block:nth-child(3) {
+        margin-top: var(--margin-zero);
+    }
+    .bars-section .wine-glass {
+        right: 0px;
+    }
+    .services-section-two {
+        padding-top: var(--padding-zero);
+    }
+    .service-block-three .text br,
+    .service-block-three .image-column .image:before {
+        display: none;
+    }
+    .service-block-three .image-column .image img {
+        width: 100%;
+        display: block;
+    }
+    .service-block-three.style-two .content-column .inner-column {
+        padding-left: var(--padding-zero);
+    }
+    .service-block-three.style-two .content-column {
+        order: 1;
+    }
+    .service-block-three.style-two .image-column {
+        order: 2;
+    }
+    .error-section {
+        padding: 100px 0px 100px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    h1 {
+        line-height: 54px;
+        font-size: var(--font-44);
+    }
+    h2 {
+        line-height: 50px;
+        font-size: var(--font-40);
+    }
+    .hospitality-section .content-column .image {
+        margin-bottom: var(--margin-bottom-20);
+    }
+    .hospitality-section .content-column .image img {
+        width: 100%;
+    }
+    .testimonial-block .text {
+        line-height: 34px;
+        font-size: var(--font-18);
+    }
+    .bars-section .price-box {
+        max-width: 100%;
+    }
+    .bars-section .wine-glass {
+        display: none;
+    }
+    .delicious-section .content-column .inner-column {
+        padding-top: var(--padding-zero);
+    }
+    .gallery-section .sec-title h2 {
+        font-size: var(--font-34);
+    }
+    .sec-title .title {
+        letter-spacing: 1px;
+        font-weight: 400;
+        font-size: var(--font-14);
+    }
+    .gallery-section .gallery-block {
+        width: 49%;
+    }
+    .main-footer .info-box:first-child {
+        margin-bottom: var(--margin-bottom-20);
+    }
+    .options-section .option-block {
+        width: 50%;
+    }
+    .cards-section .left-column {
+        margin-bottom: var(--margin-zero);
+    }
+    .cards-section .gallery-block {
+        display: block;
+    }
+    .banner-slider .slider.slider-for {
+        padding-left: var(--padding-zero);
+    }
+    .rooms-section .room-content {
+        left: 15px;
+        bottom: 15px;
+    }
+    .news-block-four .overlay-box {
+        left: 0px;
+        bottom: 0px;
+        max-width: 100%;
+    }
+    .slick-arrow {
+        top: 36%;
+    }
+    .banner-section-two .form-box {
+        margin: 0px 0px;
+    }
+    .banner-section-two .carousel-box .overlay-box {
+        position: relative;
+        right: 0px;
+        bottom: 0px;
+        max-width: 100%;
+    }
+    .comfort-section .carousel-column .owl-nav {
+        display: none;
+    }
+    .beach-section {
+        padding: 100px 0px 100px;
+    }
+    .testimonial-block-two .text {
+        font-weight: 400;
+        line-height: 36px;
+        font-size: var(--font-18);
+    }
+    .footer-style-three .logo {
+        margin-bottom: var(--margin-bottom-30);
+    }
+    .cards-section.style-two .card-block {
+        margin-left: var(--margin-zero);
+    }
+    .gallery-block-four .title {
+        left: 15px;
+        bottom: 15px;
+        right: 15px;
+    }
+    .video-section .gallery-block-four {
+        transform: scale(1, 1);
+    }
+    .video-section .owl-nav,
+    .video-section .owl-dots {
+        display: none;
+    }
+    .room-block-two .room-content {
+        position: relative;
+        max-width: 100%;
+        left: 0px;
+        bottom: 0px;
+        padding: 25px 0px 0px;
+    }
+    .news-detail h3 {
+        line-height: 42px;
+        font-size: var(--font-28);
+    }
+    .news-detail blockquote {
+        line-height: 32px;
+        font-size: var(--font-22);
+    }
+    .news-detail blockquote {
+        padding: 30px 30px;
+    }
+    .more-posts .more-posts-inner {
+        display: block !important;
+        text-align: center;
+    }
+    .news-detail .more-posts .new-post:last-child {
+        text-align: center;
+    }
+    .news-detail .comments-area .reply-comment {
+        padding-left: var(--padding-zero);
+    }
+    .news-detail .comments-area .comment-box.reply-comment::before {
+        left: 55px;
+    }
+    .news-detail .comments-area .comment-box strong {
+        font-size: var(--font-20);
+    }
+    .error-section h2 {
+        font-size: var(--font-30);
+    }
+    .error-section h1 span {
+        font-size: 180px;
+    }
+}
+
+@media only screen and (max-width: 599px) {
+    h1 {
+        line-height: 44px;
+        font-size: var(--font-34);
+    }
+    .sec-title .text {
+        line-height: 30px;
+        font-size: var(--font-16);
+    }
+    .room-block-two .room-content h2 {
+        line-height: 40px;
+        font-size: var(--font-30);
+        margin-bottom: var(--margin-bottom-10);
+    }
+    .service-block-three h2,
+    .rooms-section .room-content h2,
+    .newsletter-section h2,
+    h2 {
+        line-height: 40px;
+        font-size: var(--font-28);
+    }
+    .main-header.header-style-three .outer-box .button-box,
+    .sec-title h2 br {
+        display: none;
+    }
+    .price-block .d-flex {
+        display: block !important;
+    }
+    .price-block .content-column {
+        width: 100%;
+    }
+    .price-block .image-column {
+        width: 100%;
+    }
+    .price-block .content-column .inner-column {
+        padding: 30px 30px;
+    }
+    .testimonial-section .carousel-column .inner-column {
+        padding: 25px 25px;
+    }
+    .banner-section .text {
+        line-height: 30px;
+        font-size: var(--font-16);
+    }
+    .options-section .sec-title h2 {
+        line-height: 38px;
+        font-size: var(--font-28);
+    }
+    .options-section .booking span {
+        display: block;
+        border: none;
+        margin-top: var(--margin-top-15);
+    }
+    .rooms-section .room-content {
+        left: 0px;
+        bottom: 0px;
+        max-width: 100%;
+        padding: 30px 20px;
+    }
+    .news-block-four .text br,
+    .offer-block .inner-box:before,
+    .rooms-section .room-content .text,
+    .rooms-section .room-content .price {
+        display: none;
+    }
+    .offer-block .content {
+        padding-left: var(--padding-zero);
+    }
+    .offer-block .image {
+        position: relative;
+        margin-bottom: var(--margin-bottom-30);
+    }
+    .offer-block .inner-box {
+        padding: var(--padding-zero);
+    }
+    .footer-style-two .subscribe-text {
+        font-size: var(--font-16);
+    }
+    .news-block-four .overlay-box {
+        position: relative;
+        padding: 25px 25px;
+    }
+    .main-header.header-style-three .mobile-nav-toggler {
+        margin-right: var(--margin-zero);
+    }
+    .banner-section-two .carousel-box .overlay-box {
+        padding: 20px 20px;
+    }
+    .locations-section .owl-nav {
+        position: relative;
+        right: 0px;
+        top: 0px;
+        left: 40px;
+        margin-top: var(--margin-top-30);
+    }
+    .locations-section .owl-nav .owl-prev::before,
+    .locations-section .owl-nav .owl-next::before {
+        transform: scale(0.7, 0.7);
+    }
+    .comfort-section .content-column h3 {
+        line-height: 38px;
+        font-size: var(--font-32);
+    }
+    .gallery-block-four .title,
+    .testimonial-block-two .text br {
+        display: none;
+    }
+    .video-section .video-carousel {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .accordion-box .accordion-block-title {
+        font-size: var(--font-16);
+    }
+    .accordion-box .accordion-content {
+        padding: 0px 25px 20px;
+    }
+    .gift-block .experiance-box {
+        position: relative;
+        display: block;
+        bottom: 0px;
+        width: 100%;
+        text-align: center;
+    }
+    .gift-block .image-column .inner-column {
+        padding-left: var(--padding-zero);
+    }
+    .gift-block .content-column .text br {
+        display: none;
+    }
+    .room-block .overlay-box {
+        padding: 20px 20px;
+    }
+    .reservation-tabs .tab-btns .tab-btn {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 1px;
+        padding: 16px 10px;
+    }
+    .delicious-section .timing-column .inner-column {
+        padding: 30px 30px;
+    }
+    .delicious-section .schedule-list li span {
+        font-size: var(--font-18);
+    }
+    .bars-section .price-box h2,
+    .menu-block h3 {
+        font-size: var(--font-30);
+    }
+    .bars-section .price-box {
+        padding: 30px 30px;
+    }
+    .news-detail h3 {
+        line-height: 36px;
+        font-size: var(--font-24);
+    }
+    .news-detail .post-share-options .social-box {
+        margin-top: var(--margin-top-15);
+    }
+    .news-detail .post-share-options .social-box li {
+        margin-left: var(--margin-zero);
+    }
+    .news-detail .author-box .author-inner {
+        padding: var(--padding-zero);
+    }
+    .news-detail .author-box .image {
+        position: relative;
+        margin-bottom: var(--margin-bottom-30);
+    }
+    .news-detail .comments-area .comment-info .comment-time {
+        display: block;
+        margin-top: var(--margin-top-10);
+        margin-left: var(--margin-zero);
+    }
+    .news-detail .comments-area .comment-box {
+        padding: var(--padding-zero);
+    }
+    .news-detail .comments-area .comment-box:before {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .hotel-tabs .list li br,
+    .main-slider .owl-nav,
+    .accomodation-section .owl-nav,
+    .main-header .outer-box .nav-toggle-btn {
+        display: none;
+    }
+    .instagram-section .title-box h3 {
+        line-height: 38px;
+        font-size: var(--font-26);
+    }
+    .main-slider .color-one {
+        transform: scale(0.6, 0.6);
+    }
+    h1 {
+        line-height: 38px;
+        font-size: var(--font-26);
+    }
+    .hotel-section .author-box .box-inner {
+        font-size: var(--font-20);
+    }
+    .hotel-section .author-box .designation {
+        margin-top: var(--margin-top-10);
+    }
+    .hotel-section .counter {
+        font-size: var(--font-150);
+        top: 50px;
+    }
+    .main-header .header-top {
+        padding: 23px 0px;
+    }
+    .hotel-section .years {
+        top: 71px;
+    }
+    .hotel-section .image-two .title_ {
+        font-size: var(--font-22);
+    }
+    .hospitality-section .quote-box {
+        position: relative;
+        right: 0px;
+        padding: 25px 20px;
+    }
+    .hospitality-section .quote-box .text {
+        line-height: 36px;
+        font-size: var(--font-20);
+    }
+    .hospitality-section .video-column .inner-column {
+        padding-bottom: var(--padding-zero);
+    }
+    .room-block .overlay-box {
+        right: 15px;
+    }
+    .hotel-tabs .content {
+        padding: 30px 25px 30px;
+    }
+    .hotel-tabs .more {
+        margin-top: var(--margin-top-20);
+    }
+    .testimonial-section .owl-nav {
+        position: relative;
+        right: 0px;
+        left: 30px;
+        margin-top: var(--margin-top-30);
+    }
+    .news-block .content-box {
+        padding: 20px 20px;
+    }
+    .subscribe-box .form-group button {
+        position: relative;
+        right: 0px;
+        top: 0px;
+        width: 100%;
+        padding: 18px 10px;
+        margin-top: var(--margin-top-15);
+    }
+    .banner-section .owl-dots .owl-dot {
+        margin: 0px 5px;
+    }
+    .banner-section .owl-dots .owl-dot span {
+        font-size: var(--font-14);
+    }
+    .options-section .sec-title h2 {
+        line-height: 30px;
+        font-size: var(--font-20);
+    }
+    .options-section .option-block {
+        width: 100%;
+    }
+    .newsletter-section .content {
+        padding: 90px 15px;
+    }
+    .footer-style-two .helpline {
+        font-size: var(--font-18);
+    }
+    .collection-section .author-box .box-inner {
+        font-size: var(--font-20);
+    }
+    .collection-section .check-list li {
+        font-size: var(--font-16);
+    }
+    .service-block-two h3 {
+        font-size: var(--font-24);
+    }
+    .beach-section .voucher-box {
+        padding: 25px 25px;
+    }
+    .testimonial-block-two .author {
+        font-size: var(--font-22);
+    }
+    .news-block-five .lower-content .content {
+        padding-left: var(--padding-zero);
+    }
+    .news-block-five .post-date {
+        position: relative;
+        margin-bottom: var(--margin-bottom-20);
+    }
+    .news-block-five h4 {
+        font-size: var(--font-22);
+    }
+    .news-detail blockquote .quote-inner br,
+    .footer-style-three .logo-column .text br {
+        display: none;
+    }
+    .gift-block .content-column h3 {
+        font-size: var(--font-24);
+    }
+    .page-title .text {
+        letter-spacing: 0px;
+    }
+    .room-block-three h2 {
+        font-size: var(--font-28);
+    }
+    .news-detail blockquote {
+        font-size: var(--font-18);
+    }
+    .bars-section .price-box {
+        padding: 20px 20px;
+    }
+    .news-detail .author-box .name,
+    .service-block-three h2 {
+        line-height: 30px;
+        font-size: var(--font-24);
+    }
+    .news-detail blockquote .quote-inner {
+        padding-left: var(--padding-zero);
+    }
+    .news-detail blockquote .quote-icon {
+        position: relative;
+        display: block;
+        margin-bottom: var(--margin-bottom-10);
+    }
+    .news-detail blockquote .designation {
+        letter-spacing: 0px;
+    }
+    .news-detail .comments-area .comment-box .comment {
+        padding: var(--padding-zero);
+    }
+    .news-detail .comments-area .comment-box .author-thumb {
+        position: relative;
+    }
+    .error-section h1 {
+        font-size: var(--font-80);
+    }
+    .error-section h2 {
+        font-size: var(--font-24);
+    }
+    .error-section .text {
+        line-height: 30px;
+        font-size: var(--font-16);
+    }
+}
